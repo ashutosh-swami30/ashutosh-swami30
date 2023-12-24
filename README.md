@@ -1,4 +1,4 @@
-😄:--Hello my name is Ashutosh Swami an aspiring Software Devoloper--<br/>
+😄:--Hello my name is Ashutosh Swami an aspiring Software Develpor--<br/>
 ✍️:--I am currently learning SQL --<br/>
 📚:-- I have learnt Python <img src="https://github.com/ashutosh-swami30/UploadedFiles-images/assets/125626143/52f36e30-3d8d-46e9-a7c1-54624cc94fb3" width="24" height="24">, Java <img src="https://github.com/ashutosh-swami30/UploadedFiles-images/assets/125626143/2981a494-86bc-42c8-9f26-f0f8fb1d791b" width="24" height="24">, Git <img src="https://github.com/ashutosh-swami30/UploadedFiles-images/assets/125626143/b4a7517d-0a44-4b6a-89fd-7649426dd71c" width="24" height="24"> <br/>
 🔍:-- DevOps 
