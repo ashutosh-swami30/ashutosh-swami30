@@ -8,6 +8,8 @@
 - 💎 Passionate about Software Development and Tech world in general
 - Currently learning
   [![My Skills](https://skillicons.dev/icons?i=dotnet,go,rust,cs,aws)](https://skillicons.dev)
+- Get in touch let's explore the Tech World together
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)<a href="https://www.linkedin.com/in/ashutosh-a-swami-a5148524a/"/></a>
 
 ---
 ## 🧑‍💻 TECH STACK:
