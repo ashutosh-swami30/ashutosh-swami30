@@ -9,7 +9,7 @@
 - Currently learning
   [![My Skills](https://skillicons.dev/icons?i=dotnet,go,rust,cs,aws)](https://skillicons.dev)
 - Get in touch let's explore the Tech World together
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)<a href="https://www.linkedin.com/in/ashutosh-a-swami-a5148524a/"/></a>
+  <a href="https://linkedin.com/in/ashutosh-a-swami-a5148524a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-a-swami" height="30" width="40" /></a>
 
 ---
 ## 🧑‍💻 TECH STACK:
