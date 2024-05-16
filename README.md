@@ -7,7 +7,7 @@
 - 🧑‍💻 My name is Ashutosh I am a third year CSE undergrad student
 - 💎 Passionate about Software Development and Tech world in general
 - Currently learning
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,go,rust,cs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,go,rust,cs,aws)](https://skillicons.dev)
 
 ---
 ## 🧑‍💻 TECH STACK:
@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,java&theme=dark)](https://skillicons.dev)
 
 
-### Tech Stack
+### Technologies
 [![My Skills](https://skillicons.dev/icons?i=django,flask)](https://skillicons.dev)
 
 ### Software and Tools
