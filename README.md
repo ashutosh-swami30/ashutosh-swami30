@@ -20,4 +20,4 @@
 [![My Skills](https://skillicons.dev/icons?i=django,flask)](https://skillicons.dev)
 
 ### Software and Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,dcoker,eclipse,notion,obsidian,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,eclipse,notion,obsidian,powershell)](https://skillicons.dev)
