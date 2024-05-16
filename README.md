@@ -13,7 +13,7 @@
 ## 🧑‍💻 TECH STACK:
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java&theme=dark)](https://skillicons.dev)
 
 
 ### Tech Stack
