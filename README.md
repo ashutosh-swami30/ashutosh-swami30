@@ -13,7 +13,8 @@
 ## 🧑‍💻 TECH STACK:
 
 <h3 align="left"> Languages </h3>
-[![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm%29)](https://skillicons.dev/icons)
+
 
 <h3 align="left"> Technologies</h3>
 [![My Skills](https://skillicons.dev/icons?i=django,flask)](https://skillicons.dev)
