@@ -12,12 +12,12 @@
 ---
 ## 🧑‍💻 TECH STACK:
 
-<h3 align="left"> Languages </h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm%29)](https://skillicons.dev/icons)
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=py,java&theme=light)](https://skillicons.dev)
 
 
-<h3 align="left"> Technologies</h3>
+### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=django,flask)](https://skillicons.dev)
 
-<h3 align="left">Software and Tools</h3>
+### Software and Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,dcoker,eclipse,notion,obsidian,powershell)](https://skillicons.dev)
