@@ -4,7 +4,7 @@
 
 # 🚀 ABOUT ME: 
 ---
-- 🧑‍💻 My name is Ashutosh I am a CSE undergrad student
+- 🧑‍💻 My name is Ashutosh Swami a recent CSE undergraduate.
 - 💎 Passionate about Software Development and Tech world in general
 - Currently learning
   [![My Skills](https://skillicons.dev/icons?i=dotnet,cs)](https://skillicons.dev)
